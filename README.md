@@ -45,7 +45,7 @@ This project is a **Sign Language to Speech Conversion System** designed to help
 | Arduino IDE          | Used to upload code to Arduino               |
 
 ![Block Diagram](images/blockdiagram.png) <!-- Replace with actual image filename -->
-![Circuit Diagram](images/Flowchart.png) <!-- Replace with actual image filename -->
+![Circuit Diagram](images/flowchart.png) <!-- Replace with actual image filename -->
 
 ---
 
