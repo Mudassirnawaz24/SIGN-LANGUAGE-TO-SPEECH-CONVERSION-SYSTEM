@@ -2,7 +2,7 @@
 
 An innovative mini project aimed at bridging communication barriers between speech-impaired individuals and the rest of the world. This system uses flex sensors attached to a glove to detect finger gestures and convert them into text and audible speech using an Arduino Uno, Bluetooth HC-05, and an LCD I2C display.
 
-![Prototype Image](image3/final_prototype.jpg) <!-- Replace with actual image filename -->
+![Prototype Image](images/final_prototype.jpg) <!-- Replace with actual image filename -->
 
 ---
 
@@ -44,8 +44,8 @@ This project is a **Sign Language to Speech Conversion System** designed to help
 | LCD 16x2 (I2C)       | Displays converted text                      |
 | Arduino IDE          | Used to upload code to Arduino               |
 
-![Block Diagram](image1/block_diagram.jpg) <!-- Replace with actual image filename -->
-![Circuit Diagram](image2/Flowchart.jpg) <!-- Replace with actual image filename -->
+![Block Diagram](images/block_diagram.png) <!-- Replace with actual image filename -->
+![Circuit Diagram](images/Flowchart.png) <!-- Replace with actual image filename -->
 
 ---
 
